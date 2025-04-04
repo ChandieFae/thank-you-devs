@@ -1,8 +1,7 @@
-# thank-you-devs
+# 💌 thank-you-devs
 
 🌹 **A digital bouquet for the magicians behind the screen**  
-
-“A tribute to the open-source devs who make the magic happen ✨”
+*A tribute to the open-source devs who make the magic happen ✨”
 # 💌 Thank You, Devs
 
 **A heartfelt tribute to the magicians of tech.**
